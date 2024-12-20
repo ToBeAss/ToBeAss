@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Tobias Molland. I'm a 21-year-old Norwegian student, studying IT and information systems.
+My name is Tobias Molland. I'm a 22-year-old Norwegian student, studying IT and information systems.
 - 🔭 I’m currently working on using AI and RAG (Retrieval Augmented Generation) to enhance the workflow of a business.
 - 🌱 I’m currently learning more about AI and Python.
 - ⚡ Fun fact: I am working on a JavaScript-based space shooter type game.
